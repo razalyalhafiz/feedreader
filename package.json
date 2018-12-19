@@ -3,7 +3,8 @@
   "version": "0.1.0",
   "private": true,
   "engines": {
-    "node": "11.3.0"
+    "node": "11.3.0",
+    "npm": "6.5.0"
   },
   "scripts": {
     "start": "node server.js",
