@@ -3,7 +3,7 @@
     <div v-if="articles.length === 0">
       <h1>Welcome to the FeedReader.</h1>
       <p class="subheading font-weight-regular">
-        This is a simple application to read & manage RSS feeds with charting functionality.
+        This is a Vue.js application to read & manage RSS feeds with charting functionality.
       </p>
       <p class="subheading font-weight-regular">
         To begin using the FeedReader, add your first feed by clicking the "+" button in the navigation bar above.
