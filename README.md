@@ -1,34 +1,22 @@
 # feedreader
+A Vue.js application to read & manage RSS feeds with charting functionality.
 
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+## Project commands
 
 ### Compiles and minifies for production
 ```
 npm run build
 ```
 
-### Run your tests
+### Run the application
 ```
-npm run test
-```
-
-### Lints and fixes files
-```
-npm run lint
+npm run start
 ```
 
-### Run your unit tests
+### Run unit tests
 ```
 npm run test:unit
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### Demo application
+Click [here](https://inscalefeedreader.herokuapp.com/) to view a running version of the application.
